@@ -31,7 +31,7 @@ I focus on **clean logic**, **real practice**, and **consistent improvement**.
 
 ### 🛠️ Tools I Vibe With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode" />
+   <img src="https://skillicons.dev/icons?i=python,php,laravel,html,css,js,git,github,linux,vscode" />
 </p>
 
 ---
